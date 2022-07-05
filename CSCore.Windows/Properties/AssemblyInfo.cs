@@ -14,3 +14,5 @@ using System.Runtime.InteropServices;
 [assembly: Guid("7f569678-8c28-402d-a189-7d7f18e3fb14")]
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
+
+[assembly: InternalsVisibleTo("CSCore.Test")]
